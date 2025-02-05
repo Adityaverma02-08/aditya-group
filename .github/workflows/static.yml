@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditya Group Pvt. Ltd.</title>
+    <style>
+        body {
+            background-color: grey;
+            margin: 20px;
+            padding: 20px;
+            border: 5px solid black;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        img {
+            width: 100%;
+            max-width: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Aditya Group Pvt. Ltd.</h1>
+        <h2>Specialists in Printing Banners for Government Hospitals</h2>
+        <p>We provide high-quality banner printing services for Sadar Hospitals across various cities in Bihar.</p>
+        <h3>Our Location</h3>
+        <p>Hajipur, Vaishali, Bihar</p>
+        <h3>Our Coverage Area</h3>
+        <img src="bihar-map.png" alt="Model of Bihar">
+        <h3>Contact Us</h3>
+        <p>Email: contact@adityagroup.com | Phone: +91 XXXXX XXXXX</p>
+    </div>
+</body>
+</html>
